@@ -10,7 +10,6 @@
  */
 
 namespace Patchwork;
-
 use Normalizer as n;
 
 /**
